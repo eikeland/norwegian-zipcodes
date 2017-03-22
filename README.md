@@ -1,8 +1,6 @@
 # Norwegian zipcodes in json format.
 
-All Norwegian zipcodes in json format.
-
-Feel free to use this in your forms and applications.
+All Norwegian zipcodes in json format. Free to use in forms and applications.
 
 Converted from bring.no tab seperated ansi list.
 
